@@ -1,0 +1,10 @@
+{
+    "extName": {
+        "description": "拡張機能名",
+        "message": "TweetDeck column width optimizer"
+    },
+    "extDescription": {
+        "description": "拡張機能の説明",
+        "message": "TweetDeckのカラム幅を、ウィンドウの幅に応じて良い感じに調節します。"
+    }
+}
